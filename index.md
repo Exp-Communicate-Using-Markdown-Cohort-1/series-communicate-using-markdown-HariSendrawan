@@ -9,3 +9,7 @@ const b = 2;
 const sum = (x,y) => x + y;
 console.log(sum(a,b));
 ```
+
+- [ ] Create Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
